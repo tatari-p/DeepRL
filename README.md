@@ -1,4 +1,4 @@
-# Self Driving Drone(Using DDQN)
+# Self Driving Drone
 
 Tensorflow implementation of self driving drone using Deep Double Dueling Q Network and Galaga method.
 
