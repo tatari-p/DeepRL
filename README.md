@@ -10,6 +10,6 @@ It uses depth map for image processing, and I think deeper network, like 50 laye
 
 [Training Environment]
 
-CPU: AMD Ryzen 7 1700
-GPU: nvidia GTX1080Ti GDDR5X 11GB (Factory Overclocked)
-Training Time: under 8 hours
+- CPU: AMD Ryzen 7 1700
+- GPU: nvidia GTX1080Ti GDDR5X 11GB (Factory Overclocked)
+- Training Time: under 8 hours
